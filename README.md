@@ -4,7 +4,6 @@
 ![image](https://user-images.githubusercontent.com/113018523/192220834-3aa68142-ad37-432b-bca8-3e64478b7f5d.png)
 
 ###exp.no.2
-(https://github.com/Gowthamsridhar001/CLOUD-COMPUTING/blob/main/ex%20no%202)
 ![image](https://user-images.githubusercontent.com/113018523/192222815-a34776fb-3813-43a9-8a5b-1959a1091ef9.png)
 ![image](https://user-images.githubusercontent.com/113018523/192223104-50ea8a67-f771-4994-bd16-ef225756b4f5.png)
 ![image](https://user-images.githubusercontent.com/113018523/192223127-96bf519b-75bb-4b6f-81dc-2579b29c4691.png)
@@ -13,7 +12,6 @@
 ![image](https://user-images.githubusercontent.com/113018523/192223268-8f333240-fdc9-494d-a957-efe36d96b120.png)
 
 ##ex.no.3
-(https://github.com/Gowthamsridhar001/CLOUD-COMPUTING/blob/main/ex%20no%203)
 ![image](https://user-images.githubusercontent.com/113018523/192223433-56126065-6506-48c8-82b9-f55379491f60.png)
 ![image](https://user-images.githubusercontent.com/113018523/192223462-5f1fde0e-0485-4e08-9499-c41cd8556a42.png)
 ![image](https://user-images.githubusercontent.com/113018523/192223491-476a3e37-eda8-4bd7-955e-52ca94029c7b.png)
